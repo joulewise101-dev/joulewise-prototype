@@ -6,8 +6,8 @@ Yes, you can upload files manually! This works perfectly with Render.
 1. Open File Explorer on your computer.
 2. Navigate to: `Downloads` -> `Joule-Wise` -> `Joule-Wise`
 3. Make sure you see these files:
-   - `package.json`
-   - `render.yaml`
+   - `package.json` (Updated with Node version fixed)
+   - `render.yaml` (Updated with Node version fixed)
    - `client` (folder)
    - `server` (folder)
 
@@ -24,7 +24,7 @@ Yes, you can upload files manually! This works perfectly with Render.
    - Tip: Press `Ctrl+A` in your folder to select everything.
 3. **Drag and drop** them into the GitHub page.
 4. Wait for them to upload.
-5. In the "Commit changes" box at the bottom, type "Initial upload".
+5. In the "Commit changes" box at the bottom, type "Initial upload" (or "Update configuration" if re-uploading).
 6. Click **Commit changes**.
 
 ## Step 4: Deploy to Render
